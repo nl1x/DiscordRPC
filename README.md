@@ -1,5 +1,5 @@
 # DiscordRPC
-> **Dernière version:** `1.2`
+> 📦 **Dernière version:** `1.2`
 > 
 > 🧾 **Features :**
 > - Boutons personnalisable _(Lien et texte compris)_
