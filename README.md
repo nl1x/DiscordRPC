@@ -9,5 +9,6 @@
 > 🌐 Follow me on :
 > - 🎥 [Youtube](https://youtube.com/c/Zeynix)
 > - 🔴 [Twitch](https://twitch.tv/ZeynixTV)
+> - 🔵 [Discord](https://discord.gg/Affr95Y)
 > 
 > Personnalise ton statut discord dès maintenant !
