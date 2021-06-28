@@ -1,5 +1,5 @@
 # DiscordRPC
-> Personnalize your Discord Rich Presence now !
+> Personnalise ton statut discord dès maintenant !
 > 
 > 🧾 **Features :**
 > - Boutons personnalisable _(Lien et texte compris)_
