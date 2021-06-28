@@ -1,5 +1,5 @@
 # DiscordRPC
-> Personnalise ton statut discord dès maintenant !
+> **Dernière version:** `1.2`
 > 
 > 🧾 **Features :**
 > - Boutons personnalisable _(Lien et texte compris)_
@@ -9,3 +9,5 @@
 > 🌐 Follow me on :
 > - 🎥 [Youtube](https://youtube.com/c/Zeynix)
 > - 🔴 [Twitch](https://twitch.tv/ZeynixTV)
+> 
+> Personnalise ton statut discord dès maintenant !
